@@ -1,5 +1,13 @@
 # AIUB-CONNECT
 A SOCIAL MEDIA PROJECT 
+MVC Based project
+Tech Stacks:
+1.HTML (view)
+2.CSS (style)
+3.JS (validation and ajax)
+4.PHP (controller)
+
+
 
 There are 4-types of Users here. They are:
 1.User Student
